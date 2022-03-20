@@ -11,6 +11,10 @@ list.add("Atharv");
 list.add("Neha");
 list.add("Archana");
 list.add("Saroja");
+list.add("Sneha");
+list.add("Komal");
+list.add("Priyanka");
+list.add("Neha");
 list.remove(5);
 Iterator ltr = list.iterator();
 while(ltr.hasNext())

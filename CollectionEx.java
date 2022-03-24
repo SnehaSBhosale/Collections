@@ -19,7 +19,7 @@ System.out.println(ltr.next());
 //Hello Sneha,
 //How are you...
 //All are good...
-
+//*****
 }
 }
 }

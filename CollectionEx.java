@@ -16,6 +16,10 @@ Iterator ltr = list.iterator();
 while(ltr.hasNext())
 {
 System.out.println(ltr.next());
+//Hello Sneha,
+//How are you...
+//All are good...
+//*****.....
 }
 }
 }
